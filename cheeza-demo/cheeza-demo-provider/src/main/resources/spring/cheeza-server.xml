@@ -10,4 +10,6 @@
     
     <cheeza:provider id="helloProvider" interface="com.example.demo.service.HelloService" ref="helloService" />
 
+    <cheeza:server id="rpcServer" port="8887" protocol="cheeza" />
+
 </beans>

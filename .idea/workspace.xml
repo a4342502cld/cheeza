@@ -2,9 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6e06d7e-957c-4b46-92a7-ee5d26bf6f38" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cheeza-common/src/main/java/com/layton/cheeza/common/config/ConsumerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cheeza-common/src/main/java/com/layton/cheeza/common/config/ProviderConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cheeza-common/src/main/java/com/layton/cheeza/common/config/ServerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cheeza-common/src/main/java/com/layton/cheeza/common/model/ConsumerBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cheeza-common/src/main/java/com/layton/cheeza/common/model/ServerBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cheeza-common/src/main/java/com/layton/cheeza/common/remote/CheezaChannelInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cheeza-common/src/main/java/com/layton/cheeza/common/remote/CheezaProcessHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cheeza-common/src/main/java/com/layton/cheeza/common/remote/NamingThreadFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cheeza-common/src/main/java/com/layton/cheeza/common/remote/NettyServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cheeza-common/src/main/java/com/layton/cheeza/common/remote/RequestWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cheeza-common/src/main/java/com/layton/cheeza/common/remote/client/CheezaRpcResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cheeza-common/src/main/java/com/layton/cheeza/common/remote/codec/CheezaDecoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cheeza-common/src/main/java/com/layton/cheeza/common/remote/codec/CheezaEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cheeza-common/src/main/java/com/layton/cheeza/common/remote/server/CheezaRpcRequest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cheeza-common/src/main/java/com/layton/cheeza/common/model/ProviderBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/cheeza-common/src/main/java/com/layton/cheeza/common/model/ProviderBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cheeza-common/src/main/java/com/layton/cheeza/common/spring/schemas/CheezaRpcBeanDefinitionParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/cheeza-common/src/main/java/com/layton/cheeza/common/spring/schemas/CheezaRpcBeanDefinitionParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cheeza-common/src/main/java/com/layton/cheeza/common/spring/schemas/CheezaRpcNamespaceHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/cheeza-common/src/main/java/com/layton/cheeza/common/spring/schemas/CheezaRpcNamespaceHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cheeza-common/src/main/resources/META-INF/cheeza-rpc.xsd" beforeDir="false" afterPath="$PROJECT_DIR$/cheeza-common/src/main/resources/META-INF/cheeza-rpc.xsd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cheeza-demo/cheeza-demo-provider/src/main/resources/spring/cheeza-server.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cheeza-demo/cheeza-demo-provider/src/main/resources/spring/cheeza-server.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,19 +67,20 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Project\cheeza\cheeza-demo" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.layton.cheeza.demo.provider.test" />
-      <recent name="com.layton.cheeza.demo.service" />
-      <recent name="com.layton.cheeza.common.model" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Project\cheeza\cheeza-demo\cheeza-demo-provider\src\main\resources\spring" />
       <recent name="D:\Project\cheeza\cheeza-demo\src\main\resources" />
       <recent name="D:\Project\cheeza\cheeza-common\src\main\java\com\layton\cheeza\common\spring\schemas" />
       <recent name="D:\Project\cheeza\cheeza-common\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.layton.cheeza.common.config" />
+      <recent name="com.layton.cheeza.demo.provider.test" />
+      <recent name="com.layton.cheeza.demo.service" />
+      <recent name="com.layton.cheeza.common.model" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project\cheeza\cheeza-demo" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -128,7 +146,7 @@
       <updated>1573720797916</updated>
       <workItem from="1573720800059" duration="2774000" />
       <workItem from="1573779079964" duration="9197000" />
-      <workItem from="1573788309171" duration="409000" />
+      <workItem from="1573788309171" duration="15857000" />
     </task>
     <task id="LOCAL-00001" summary="ignore">
       <created>1573788518633</created>
@@ -137,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573788518633</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ignore">
+      <created>1573788754476</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573788754476</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,5 +184,41 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ignore" />
     <option name="LAST_COMMIT_MESSAGE" value="ignore" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cheeza-common/src/main/java/com/layton/cheeza/common/config/ServerConfig.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cheeza-common/src/main/java/com/layton/cheeza/common/remote/NettyServer.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cheeza-common/src/main/java/com/layton/cheeza/common/model/ProviderBean.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cheeza-common/src/main/java/com/layton/cheeza/common/model/ProviderBean.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cheeza-common/src/main/java/com/layton/cheeza/common/config/ProviderConfig.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="server" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

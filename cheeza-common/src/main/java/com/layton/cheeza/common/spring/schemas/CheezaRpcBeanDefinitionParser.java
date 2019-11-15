@@ -39,18 +39,16 @@ public class CheezaRpcBeanDefinitionParser implements BeanDefinitionParser {
         String id = element.getAttribute("id");
 
 
-        if (ProviderBean.class.equals(beanClass)) {
-            if (StringUtils.isBlank(id) && required) {
-                throw new IllegalStateException("This bean do not set spring bean id " + id);
-            }
+        if (StringUtils.isBlank(id) && required) {
+            throw new IllegalStateException("This bean do not set spring bean id " + id);
+        }
 
-            // id肯定是必须的所以此处去掉对id是否为空的判断
-            if (required) {
-                if (parserContext.getRegistry().containsBeanDefinition(id)) {
-                    throw new IllegalStateException("Duplicate spring bean id " + id);
-                }
-                parserContext.getRegistry().registerBeanDefinition(id, beanDefinition);
+        // id肯定是必须的所以此处去掉对id是否为空的判断
+        if (required) {
+            if (parserContext.getRegistry().containsBeanDefinition(id)) {
+                throw new IllegalStateException("Duplicate spring bean id " + id);
             }
+            parserContext.getRegistry().registerBeanDefinition(id, beanDefinition);
         }
 
         for (Method setter : beanClass.getMethods()) {
