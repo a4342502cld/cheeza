@@ -2,31 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6e06d7e-957c-4b46-92a7-ee5d26bf6f38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/thriftCompiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cheeza-common/cheeza-common.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cheeza-common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cheeza-common/src/main/java/com/layton/cheeza/common/model/ProviderBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cheeza-common/src/main/java/com/layton/cheeza/common/spring/schemas/CheezaRpcBeanDefinitionParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cheeza-common/src/main/java/com/layton/cheeza/common/spring/schemas/CheezaRpcNamespaceHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cheeza-common/src/main/resources/META-INF/cheeza-rpc.xsd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cheeza-common/src/main/resources/META-INF/spring.handlers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cheeza-common/src/main/resources/META-INF/spring.schemas" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cheeza-demo/cheeza-demo-api/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cheeza-demo/cheeza-demo-api/src/main/java/com/layton/cheeza/demo/api/HelloService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cheeza-demo/cheeza-demo-provider/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cheeza-demo/cheeza-demo-provider/src/main/java/com/layton/cheeza/demo/provider/CheezaDemoProviderApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cheeza-demo/cheeza-demo-provider/src/main/java/com/layton/cheeza/demo/provider/service/HelloServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cheeza-demo/cheeza-demo-provider/src/main/java/com/layton/cheeza/demo/provider/test/HelloServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cheeza-demo/cheeza-demo-provider/src/main/resources/spring/cheeza-server.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cheeza-demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cheeza.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +45,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -129,8 +105,8 @@
     </configuration>
     <list>
       <item itemvalue="Spring Boot.CheezaCommonApplication" />
-      <item itemvalue="Spring Boot.DemoApplication" />
       <item itemvalue="Spring Boot.CheezaDemoProviderApplication" />
+      <item itemvalue="Spring Boot.DemoApplication" />
     </list>
     <recent_temporary>
       <list>
@@ -149,7 +125,7 @@
       <option name="presentableId" value="Default" />
       <updated>1573720797916</updated>
       <workItem from="1573720800059" duration="2774000" />
-      <workItem from="1573779079964" duration="8646000" />
+      <workItem from="1573779079964" duration="9197000" />
     </task>
     <servers />
   </component>
