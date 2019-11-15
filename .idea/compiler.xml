@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cheeza-demo-api" />
+        <module name="cheeza-demo-provider" />
+        <module name="cheeza-common" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cheeza" options="-parameters" />
+      <module name="cheeza-common" options="-parameters" />
+      <module name="cheeza-demo" options="-parameters" />
+      <module name="cheeza-demo-api" options="-parameters" />
+      <module name="cheeza-demo-provider" options="-parameters" />
+    </option>
+  </component>
+</project>

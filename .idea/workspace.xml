@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6e06d7e-957c-4b46-92a7-ee5d26bf6f38" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/thriftCompiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cheeza-common/cheeza-common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cheeza-common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cheeza-common/src/main/java/com/layton/cheeza/common/model/ProviderBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cheeza-common/src/main/java/com/layton/cheeza/common/spring/schemas/CheezaRpcBeanDefinitionParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cheeza-common/src/main/java/com/layton/cheeza/common/spring/schemas/CheezaRpcNamespaceHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cheeza-common/src/main/resources/META-INF/cheeza-rpc.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cheeza-common/src/main/resources/META-INF/spring.handlers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cheeza-common/src/main/resources/META-INF/spring.schemas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cheeza-demo/cheeza-demo-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cheeza-demo/cheeza-demo-api/src/main/java/com/layton/cheeza/demo/api/HelloService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cheeza-demo/cheeza-demo-provider/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cheeza-demo/cheeza-demo-provider/src/main/java/com/layton/cheeza/demo/provider/CheezaDemoProviderApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cheeza-demo/cheeza-demo-provider/src/main/java/com/layton/cheeza/demo/provider/service/HelloServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cheeza-demo/cheeza-demo-provider/src/main/java/com/layton/cheeza/demo/provider/test/HelloServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cheeza-demo/cheeza-demo-provider/src/main/resources/spring/cheeza-server.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cheeza-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cheeza.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\WorkSoft\apache-maven\repo" />
+        <option name="mavenHome" value="D:/WorkSoft/apache-maven" />
+        <option name="userSettingsFile" value="D:\WorkSoft\apache-maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TbFH8AfJARqbTvm5XVq15FORR5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cheeza-demo/cheeza-demo-provider/src/main/resources/spring" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project\cheeza\cheeza-demo" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.layton.cheeza.demo.provider.test" />
+      <recent name="com.layton.cheeza.demo.service" />
+      <recent name="com.layton.cheeza.common.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\cheeza\cheeza-demo\cheeza-demo-provider\src\main\resources\spring" />
+      <recent name="D:\Project\cheeza\cheeza-demo\src\main\resources" />
+      <recent name="D:\Project\cheeza\cheeza-common\src\main\java\com\layton\cheeza\common\spring\schemas" />
+      <recent name="D:\Project\cheeza\cheeza-common\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CheezaDemoProviderApplication">
+    <configuration name="CheezaCommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cheeza-common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.layton.cheeza.common.CheezaCommonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheezaDemoProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cheeza-demo-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.layton.cheeza.demo.provider.CheezaDemoProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cheeza-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.layton.cheeza.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.layton.cheeza.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.CheezaCommonApplication" />
+      <item itemvalue="Spring Boot.DemoApplication" />
+      <item itemvalue="Spring Boot.CheezaDemoProviderApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.DemoApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6e06d7e-957c-4b46-92a7-ee5d26bf6f38" name="Default Changelist" comment="" />
+      <created>1573720797916</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573720797916</updated>
+      <workItem from="1573720800059" duration="2774000" />
+      <workItem from="1573779079964" duration="8646000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
