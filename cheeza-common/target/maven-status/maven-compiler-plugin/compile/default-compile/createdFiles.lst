@@ -1,0 +1,7 @@
+com\layton\cheeza\common\config\ServerConfig.class
+com\layton\cheeza\common\model\ProviderBean.class
+com\layton\cheeza\common\spring\schemas\CheezaRpcNamespaceHandler.class
+com\layton\cheeza\common\remote\NettyServer.class
+com\layton\cheeza\common\model\ServerBean.class
+com\layton\cheeza\common\config\ProviderConfig.class
+com\layton\cheeza\common\spring\schemas\CheezaRpcBeanDefinitionParser.class
