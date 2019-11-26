@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6e06d7e-957c-4b46-92a7-ee5d26bf6f38" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -130,6 +130,7 @@
       <workItem from="1573788309171" duration="15938000" />
       <workItem from="1574037661779" duration="1249000" />
       <workItem from="1574315252829" duration="4135000" />
+      <workItem from="1574754109041" duration="249000" />
     </task>
     <task id="LOCAL-00001" summary="ignore">
       <created>1573788518633</created>
@@ -159,7 +160,28 @@
       <option name="project" value="LOCAL" />
       <updated>1574319946613</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add proxy">
+      <created>1574754140506</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1574754140506</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add proxy">
+      <created>1574754166788</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1574754166788</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add proxy">
+      <created>1574754211660</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1574754211660</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
